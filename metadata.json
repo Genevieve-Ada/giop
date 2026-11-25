@@ -1,0 +1,6 @@
+{
+  "name": "Converse — Sneaker Storefront",
+  "description": "Curated sneaker storefront featuring heritage silhouettes, court icons, and modern streetwear collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
